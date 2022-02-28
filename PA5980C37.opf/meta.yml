@@ -1,0 +1,27 @@
+id: PA5980C37
+initial_creation_type: input
+source_metadata:
+  title: Khenpo Tsöndrü Series
+  language: es
+  description: 'The following texts are available in our series of texts by or about
+    Dzogchen Khenpo Thubten Tsöndrü (mkhan po thub bstan brtson ''grus, 1920–1979):'
+  volume:
+    8ef032f7ba0248e7ac87e84577529b6c:
+      title: Clouds of Offerings to Delight the Victorious Ones – An Aspiration Prayer
+        for the Spread of the Teachings of the Lord of Siddhas, Dzogchen Rinpoche
+      parent: Aspiration Prayer
+    afc750b652b7444295cd145b14fd8ea9:
+      title: Biography of Dzogchen Khenchen Abu Lhagang
+      parent: Biographies
+    8d65c330b8424e6f91aa57dd49d96b60:
+      title: A Preliminary to the Explanation of the Prajñāpāramitā
+      parent: Prajñāpāramitā
+    2e1f3269027e4debb1222c64805ef5be:
+      title: 'The Words of Jigme Chökyi Wangpo: A Commentary Presenting the Subject
+        Matter of the Great Treatise Abhisamayālaṃkāra'
+      parent: Prajñāpāramitā
+    bb66e17101584609828b18fe915a3e20:
+      title: Prayer to Shechen Kongtrul as Vajrasattva
+      parent: Prayers
+created_at: '2022-03-01T00:29:42.462682'
+last_modified_at: '2022-03-01T00:29:42.462686'
